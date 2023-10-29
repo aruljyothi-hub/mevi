@@ -1,0 +1,2 @@
+# mevi
+django project
